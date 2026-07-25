@@ -15,8 +15,9 @@ Built for the **Kaggle 5-Day AI Agents: Intensive Vibe Coding Capstone** — Tra
 Generic nutrition search results don't account for:
 - Specific deficiencies (Iron vs B12 vs Vitamin D are very different)
 - Indian dietary patterns (dal, roti, ragi — absent from most Western databases)
-- Diet restrictions (veg/vegan users have fundamentally different options)
 - Bioavailability (spinach iron ≠ meat iron; Vitamin C triples iron absorption)
+- Diet restrictions (veg/vegan users have fundamentally different options)
+
 
 ---
 
